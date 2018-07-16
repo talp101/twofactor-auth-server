@@ -1,0 +1,4 @@
+*.py[ocd]
+*.log
+*.db
+THUMBS.db
